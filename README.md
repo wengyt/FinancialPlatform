@@ -1,11 +1,13 @@
 # SupplyChain
  区块链大项目 fisco-bcos
 
-iview admin为我的项目前端（使用iview admin模板），server为我的后端。
+iview admin为项目前端（使用iview admin模板），server为项目后端。
+
+[项目说明报告] (https://shimo.im/docs/SU1zwP9NCFYjYnBJ)
 
 ## 启动项目
 
-我的sol文件在/server/packages/cli/contracts/SupplyChain1.sol
+我的sol文件在/server/packages/cli/contracts/Financial Platform.sol
 
 ### 启动链端
 
