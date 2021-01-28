@@ -1,7 +1,6 @@
 # Financial Platform
  FISCO-BCOS 区块链大项目 
 
-iview admin为项目前端（使用iview admin模板），server为项目后端。
 
 TIPS：点击链接查看相应实验报告
 - [项目说明报告（作业二）](https://shimo.im/docs/xhnamRJQnoANkMHa)
@@ -9,8 +8,8 @@ TIPS：点击链接查看相应实验报告
 
 ### 说明
 - sol文件位于文件夹 /server/packages/cli/contracts/Financial Platform.sol
-- 前端 文件夹 /iview-admin
-- 链端+后端 文件夹 /server
+- 前端     文件夹   /iview-admin
+- 链端+后端 文件夹  /server
 
 ## 启动项目
 
