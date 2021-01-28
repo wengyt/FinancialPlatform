@@ -1,4 +1,4 @@
-# SupplyChain
+# Financial Platform
  区块链大项目 fisco-bcos
 
 iview admin为项目前端（使用iview admin模板），server为项目后端。
