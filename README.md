@@ -5,9 +5,10 @@ iview admin为项目前端（使用iview admin模板），server为项目后端�
 
 [项目说明报告](https://shimo.im/docs/xhnamRJQnoANkMHa)
 
-## 启动项目
+### 说明
+sol文件位于文件夹下 /server/packages/cli/contracts/Financial Platform.sol
 
-我的sol文件在/server/packages/cli/contracts/Financial Platform.sol
+## 启动项目
 
 ### 启动链端
 
