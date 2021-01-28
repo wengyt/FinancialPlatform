@@ -1,4 +1,4 @@
-[##来自github iView Admin官方文档](https://github.com/iview/iview-admin)
+[来自github iView Admin官方文档](https://github.com/iview/iview-admin)
 
 <p align="center">
     <a href="https://www.iviewui.com">
