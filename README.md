@@ -3,7 +3,7 @@
 
 iview admin为项目前端（使用iview admin模板），server为项目后端。
 
-[项目说明报告] (https://shimo.im/docs/SU1zwP9NCFYjYnBJ)
+[项目说明报告](https://shimo.im/docs/xhnamRJQnoANkMHa)
 
 ## 启动项目
 
