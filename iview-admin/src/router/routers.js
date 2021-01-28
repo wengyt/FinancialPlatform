@@ -66,7 +66,7 @@ export default [
         // icon: '_qq',
         title: '企业供应链'
       },
-      component: () => import('@/view/SupplyChain.vue')
+      component: () => import('@/view/FinancialPlatform.vue')
     }
   ]
 },
