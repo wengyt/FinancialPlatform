@@ -50,103 +50,17 @@ export default [
       }
     ]
   },
-  
-  /*
-  //发起合同
-  {
-    path: '/Receipt',
-    name: 'Receipt',
-    component: Main,
-    meta: {
-      hideInBread: true
-    },
-    children: [
-      {
-        path: '/Receipt',
-        name: '发起合同',
-        meta: {
-          // icon: '_qq',
-          title: '发起合同'
-        },
-        component: () => import('@/view/Receipt.vue')
-      }
-    ]
-  },
-  
-  //单据转让
-  {
-    path: '/Transfer',
-    name: 'Transfer',
-    component: Main,
-    meta: {
-      hideInBread: true
-    },
-    children: [
-      {
-        path: '/Transfer',
-        name: '单据转让',
-        meta: {
-          // icon: '_qq',
-          title: '单据转让'
-        },
-        component: () => import('@/view/Transfer.vue')
-      }
-    ]
-  },
-
-  //单据融资
-  {
-    path: '/Financing',
-    name: 'Financing',
-    component: Main,
-    meta: {
-      hideInBread: true
-    },
-    children: [
-      {
-        path: '/Financing',
-        name: '单据融资',
-        meta: {
-          // icon: '_qq',
-          title: '单据融资'
-        },
-        component: () => import('@/view/Financing.vue')
-      }
-    ]
-  },
-
-  //结算账款
-  {
-    path: '/Settle',
-    name: 'Settle',
-    component: Main,
-    meta: {
-      hideInBread: true
-    },
-    children: [
-      {
-        path: '/Settle',
-        name: '结算账款',
-        meta: {
-          // icon: '_qq',
-          title: '结算账款'
-        },
-        component: () => import('@/view/Settle.vue')
-      }
-    ]
-  },
-  */
 
  {
-  path: '/SupplyChain',
-  name: 'SupplyChain',
+  path: '/FinancialPlatform',
+  name: 'FinancialPlatform',
   component: Main,
   meta: {
     hideInBread: true
   },
   children: [
     {
-      path: '/SupplyChain',
+      path: '/FinancialPlatform',
       name: '企业供应链',
       meta: {
         // icon: '_qq',
